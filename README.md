@@ -8,4 +8,5 @@
     <li>Formatting</li>
     <li>Positioning of trainees?</li>
     <li><strong>Havent filled out the body yet</strong></li>
+    <li>I have moved the body to the bottom of the page to disconnect it from the rest of the template. It will need to be back in the document to preserve its flow</li>
 </ul>
