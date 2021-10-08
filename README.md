@@ -1,6 +1,6 @@
 <h1>Drill Lesson</h1>
 
-<p>You can download by clicking the <strong>Code</strong> button and <strong>Download ZIP</strong></p>
+<p>You can download current version by clicking <a href="https://github.com/ConnoisseurOfCookies/DrillLesson/blob/main/Training%20Event%20Plan.docx?raw=true" target="_blank">Here</a>
 
 <ul>
     <h2>To do</h1>
